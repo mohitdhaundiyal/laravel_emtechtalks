@@ -1,0 +1,6 @@
+num1 = input('enter first number')
+num2 = input('enter second number')
+num1 = int(num1)
+num2 = int(num2)
+result = (num1 * num2)
+print('Result is ' + str(result))
